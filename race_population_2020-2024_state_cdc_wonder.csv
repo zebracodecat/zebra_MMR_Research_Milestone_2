@@ -1,0 +1,78 @@
+"Notes","States","States Code",Population
+,"Alabama","01",25433843
+,"Alaska","02",3678522
+,"Arizona","04",36894190
+,"Arkansas","05",15246937
+,"California","06",196436893
+,"Colorado","08",29310932
+,"Connecticut","09",18122542
+,"Delaware","10",5105955
+,"District of Columbia","11",3406472
+,"Florida","12",112080379
+,"Georgia","13",54702063
+,"Hawaii","15",7226173
+,"Idaho","16",9671303
+,"Illinois","17",63473967
+,"Indiana","18",34255355
+,"Iowa","19",16052476
+,"Kansas","20",14735940
+,"Kentucky","21",22674101
+,"Louisiana","22",23059770
+,"Maine","23",6939082
+,"Maryland","24",31030060
+,"Massachusetts","25",35220279
+,"Michigan","26",50388746
+,"Minnesota","27",28697215
+,"Mississippi","28",14733901
+,"Missouri","29",30959036
+,"Montana","30",5584382
+,"Nebraska","31",9893499
+,"Nevada","32",15923054
+,"New Hampshire","33",6974342
+,"New Jersey","34",46719055
+,"New Mexico","35",10601227
+,"New York","36",99261809
+,"North Carolina","37",53651978
+,"North Dakota","38",3924201
+,"Ohio","39",59051461
+,"Oklahoma","40",20143157
+,"Oregon","41",21271455
+,"Pennsylvania","42",65093176
+,"Rhode Island","44",5509011
+,"South Carolina","45",26481119
+,"South Dakota","46",4537137
+,"Tennessee","47",35331915
+,"Texas","48",150942130
+,"Utah","49",16961661
+,"Vermont","50",3235530
+,"Virginia","51",43525819
+,"Washington","53",39080592
+,"West Virginia","54",8891860
+,"Wisconsin","55",29574338
+,"Wyoming","56",2911980
+"Total",,,1674612020
+"---"
+"Dataset: Single-Race Population Estimates 2020-2024 by State and Single-Year Age"
+"Query Parameters:"
+"Group By: States"
+"Show Totals: True"
+"Show Zero Values: True"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/single-race.html for more information."
+"---"
+"Query Date: Nov 21, 2026 1:18:49 AM"
+"---"
+"Suggested Citation: Single-race Population Estimates, United States, 2020-2024. July 1st resident population by state, age, sex,"
+"single-race, and Hispanic origin, on CDC WONDER Online Database. The 2020-2024 postcensal series of estimates of the July 1"
+"resident population are based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, Released by the Census Bureau on June 26, 2025. Accessed at"
+"http://wonder.cdc.gov/single-race-single-year-v2024.html on Nov 21, 2026 1:18:49 AM"
+"---"
+Footnotes:
+"1. Estimates for 2020-2024 are single-race Vintage 2024 postcensal estimates of the July 1 resident population, based on the"
+"modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, and released by"
+"the Census Bureau on June 26, 2025."
+"---"
+Caveats:
+"1. The query results include the sum of the population for more than one year. To see the population for a single year, either"
+"sort by year, or select only one year."

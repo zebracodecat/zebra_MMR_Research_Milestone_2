@@ -1,0 +1,388 @@
+"Notes","States","States Code","Race","Race Code",Population
+,"Alabama","01","American Indian or Alaska Native","1002-5",189858
+,"Alabama","01","Asian","A",411086
+,"Alabama","01","Black or African American","2054-5",6785631
+,"Alabama","01","Native Hawaiian or Other Pacific Islander","NHOPI",30330
+,"Alabama","01","White","2106-3",17520840
+,"Alabama","01","More than one race","M",496098
+"Total","Alabama","01",,,25433843
+,"Alaska","02","American Indian or Alaska Native","1002-5",573448
+,"Alaska","02","Asian","A",250482
+,"Alaska","02","Black or African American","2054-5",135645
+,"Alaska","02","Native Hawaiian or Other Pacific Islander","NHOPI",61607
+,"Alaska","02","White","2106-3",2362644
+,"Alaska","02","More than one race","M",294696
+"Total","Alaska","02",,,3678522
+,"Arizona","04","American Indian or Alaska Native","1002-5",1910450
+,"Arizona","04","Asian","A",1508397
+,"Arizona","04","Black or African American","2054-5",2071490
+,"Arizona","04","Native Hawaiian or Other Pacific Islander","NHOPI",107054
+,"Arizona","04","White","2106-3",30112785
+,"Arizona","04","More than one race","M",1184014
+"Total","Arizona","04",,,36894190
+,"Arkansas","05","American Indian or Alaska Native","1002-5",170177
+,"Arkansas","05","Asian","A",283987
+,"Arkansas","05","Black or African American","2054-5",2386445
+,"Arkansas","05","Native Hawaiian or Other Pacific Islander","NHOPI",72974
+,"Arkansas","05","White","2106-3",11964702
+,"Arkansas","05","More than one race","M",368652
+"Total","Arkansas","05",,,15246937
+,"California","06","American Indian or Alaska Native","1002-5",3423856
+,"California","06","Asian","A",32171689
+,"California","06","Black or African American","2054-5",12713540
+,"California","06","Native Hawaiian or Other Pacific Islander","NHOPI",1026969
+,"California","06","White","2106-3",138706776
+,"California","06","More than one race","M",8394063
+"Total","California","06",,,196436893
+,"Colorado","08","American Indian or Alaska Native","1002-5",491243
+,"Colorado","08","Asian","A",1114258
+,"Colorado","08","Black or African American","2054-5",1399720
+,"Colorado","08","Native Hawaiian or Other Pacific Islander","NHOPI",65805
+,"Colorado","08","White","2106-3",25237304
+,"Colorado","08","More than one race","M",1002602
+"Total","Colorado","08",,,29310932
+,"Connecticut","09","American Indian or Alaska Native","1002-5",135722
+,"Connecticut","09","Asian","A",944475
+,"Connecticut","09","Black or African American","2054-5",2338648
+,"Connecticut","09","Native Hawaiian or Other Pacific Islander","NHOPI",21426
+,"Connecticut","09","White","2106-3",14185564
+,"Connecticut","09","More than one race","M",496707
+"Total","Connecticut","09",,,18122542
+,"Delaware","10","American Indian or Alaska Native","1002-5",38821
+,"Delaware","10","Asian","A",226150
+,"Delaware","10","Black or African American","2054-5",1214849
+,"Delaware","10","Native Hawaiian or Other Pacific Islander","NHOPI",6067
+,"Delaware","10","White","2106-3",3464896
+,"Delaware","10","More than one race","M",155172
+"Total","Delaware","10",,,5105955
+,"District of Columbia","11","American Indian or Alaska Native","1002-5",22771
+,"District of Columbia","11","Asian","A",166929
+,"District of Columbia","11","Black or African American","2054-5",1525704
+,"District of Columbia","11","Native Hawaiian or Other Pacific Islander","NHOPI",5884
+,"District of Columbia","11","White","2106-3",1576202
+,"District of Columbia","11","More than one race","M",108982
+"Total","District of Columbia","11",,,3406472
+,"Florida","12","American Indian or Alaska Native","1002-5",638803
+,"Florida","12","Asian","A",3572427
+,"Florida","12","Black or African American","2054-5",19030036
+,"Florida","12","Native Hawaiian or Other Pacific Islander","NHOPI",141952
+,"Florida","12","White","2106-3",85980750
+,"Florida","12","More than one race","M",2716411
+"Total","Florida","12",,,112080379
+,"Georgia","13","American Indian or Alaska Native","1002-5",326135
+,"Georgia","13","Asian","A",2626967
+,"Georgia","13","Black or African American","2054-5",18055173
+,"Georgia","13","Native Hawaiian or Other Pacific Islander","NHOPI",75982
+,"Georgia","13","White","2106-3",32283106
+,"Georgia","13","More than one race","M",1334700
+"Total","Georgia","13",,,54702063
+,"Hawaii","15","American Indian or Alaska Native","1002-5",27680
+,"Hawaii","15","Asian","A",2710231
+,"Hawaii","15","Black or African American","2054-5",158164
+,"Hawaii","15","Native Hawaiian or Other Pacific Islander","NHOPI",750704
+,"Hawaii","15","White","2106-3",1810828
+,"Hawaii","15","More than one race","M",1768566
+"Total","Hawaii","15",,,7226173
+,"Idaho","16","American Indian or Alaska Native","1002-5",166677
+,"Idaho","16","Asian","A",167871
+,"Idaho","16","Black or African American","2054-5",96858
+,"Idaho","16","Native Hawaiian or Other Pacific Islander","NHOPI",22778
+,"Idaho","16","White","2106-3",8949749
+,"Idaho","16","More than one race","M",267370
+"Total","Idaho","16",,,9671303
+,"Illinois","17","American Indian or Alaska Native","1002-5",413520
+,"Illinois","17","Asian","A",4028873
+,"Illinois","17","Black or African American","2054-5",9288416
+,"Illinois","17","Native Hawaiian or Other Pacific Islander","NHOPI",44013
+,"Illinois","17","White","2106-3",48272916
+,"Illinois","17","More than one race","M",1426229
+"Total","Illinois","17",,,63473967
+,"Indiana","18","American Indian or Alaska Native","1002-5",159765
+,"Indiana","18","Asian","A",974442
+,"Indiana","18","Black or African American","2054-5",3541441
+,"Indiana","18","Native Hawaiian or Other Pacific Islander","NHOPI",27219
+,"Indiana","18","White","2106-3",28733583
+,"Indiana","18","More than one race","M",818905
+"Total","Indiana","18",,,34255355
+,"Iowa","19","American Indian or Alaska Native","1002-5",99614
+,"Iowa","19","Asian","A",447036
+,"Iowa","19","Black or African American","2054-5",712174
+,"Iowa","19","Native Hawaiian or Other Pacific Islander","NHOPI",39840
+,"Iowa","19","White","2106-3",14405590
+,"Iowa","19","More than one race","M",348222
+"Total","Iowa","19",,,16052476
+,"Kansas","20","American Indian or Alaska Native","1002-5",186206
+,"Kansas","20","Asian","A",480410
+,"Kansas","20","Black or African American","2054-5",916574
+,"Kansas","20","Native Hawaiian or Other Pacific Islander","NHOPI",22303
+,"Kansas","20","White","2106-3",12644156
+,"Kansas","20","More than one race","M",486291
+"Total","Kansas","20",,,14735940
+,"Kentucky","21","American Indian or Alaska Native","1002-5",77539
+,"Kentucky","21","Asian","A",414170
+,"Kentucky","21","Black or African American","2054-5",1977463
+,"Kentucky","21","Native Hawaiian or Other Pacific Islander","NHOPI",27748
+,"Kentucky","21","White","2106-3",19664544
+,"Kentucky","21","More than one race","M",512637
+"Total","Kentucky","21",,,22674101
+,"Louisiana","22","American Indian or Alaska Native","1002-5",205028
+,"Louisiana","22","Asian","A",448210
+,"Louisiana","22","Black or African American","2054-5",7513665
+,"Louisiana","22","Native Hawaiian or Other Pacific Islander","NHOPI",16396
+,"Louisiana","22","White","2106-3",14434646
+,"Louisiana","22","More than one race","M",441825
+"Total","Louisiana","22",,,23059770
+,"Maine","23","American Indian or Alaska Native","1002-5",49130
+,"Maine","23","Asian","A",96485
+,"Maine","23","Black or African American","2054-5",144150
+,"Maine","23","Native Hawaiian or Other Pacific Islander","NHOPI",2780
+,"Maine","23","White","2106-3",6510695
+,"Maine","23","More than one race","M",135842
+"Total","Maine","23",,,6939082
+,"Maryland","24","American Indian or Alaska Native","1002-5",240210
+,"Maryland","24","Asian","A",2183440
+,"Maryland","24","Black or African American","2054-5",9753762
+,"Maryland","24","Native Hawaiian or Other Pacific Islander","NHOPI",40521
+,"Maryland","24","White","2106-3",17816790
+,"Maryland","24","More than one race","M",995337
+"Total","Maryland","24",,,31030060
+,"Massachusetts","25","American Indian or Alaska Native","1002-5",194794
+,"Massachusetts","25","Asian","A",2748926
+,"Massachusetts","25","Black or African American","2054-5",3356546
+,"Massachusetts","25","Native Hawaiian or Other Pacific Islander","NHOPI",39582
+,"Massachusetts","25","White","2106-3",27899981
+,"Massachusetts","25","More than one race","M",980450
+"Total","Massachusetts","25",,,35220279
+,"Michigan","26","American Indian or Alaska Native","1002-5",376681
+,"Michigan","26","Asian","A",1832170
+,"Michigan","26","Black or African American","2054-5",7121854
+,"Michigan","26","Native Hawaiian or Other Pacific Islander","NHOPI",23635
+,"Michigan","26","White","2106-3",39639958
+,"Michigan","26","More than one race","M",1394448
+"Total","Michigan","26",,,50388746
+,"Minnesota","27","American Indian or Alaska Native","1002-5",404396
+,"Minnesota","27","Asian","A",1577253
+,"Minnesota","27","Black or African American","2054-5",2211165
+,"Minnesota","27","Native Hawaiian or Other Pacific Islander","NHOPI",25468
+,"Minnesota","27","White","2106-3",23671188
+,"Minnesota","27","More than one race","M",807745
+"Total","Minnesota","27",,,28697215
+,"Mississippi","28","American Indian or Alaska Native","1002-5",96640
+,"Mississippi","28","Asian","A",176370
+,"Mississippi","28","Black or African American","2054-5",5572272
+,"Mississippi","28","Native Hawaiian or Other Pacific Islander","NHOPI",10096
+,"Mississippi","28","White","2106-3",8659213
+,"Mississippi","28","More than one race","M",219310
+"Total","Mississippi","28",,,14733901
+,"Missouri","29","American Indian or Alaska Native","1002-5",194231
+,"Missouri","29","Asian","A",726548
+,"Missouri","29","Black or African American","2054-5",3647840
+,"Missouri","29","Native Hawaiian or Other Pacific Islander","NHOPI",60638
+,"Missouri","29","White","2106-3",25505918
+,"Missouri","29","More than one race","M",823861
+"Total","Missouri","29",,,30959036
+,"Montana","30","American Indian or Alaska Native","1002-5",361440
+,"Montana","30","Asian","A",56770
+,"Montana","30","Black or African American","2054-5",35138
+,"Montana","30","Native Hawaiian or Other Pacific Islander","NHOPI",5282
+,"Montana","30","White","2106-3",4957371
+,"Montana","30","More than one race","M",168381
+"Total","Montana","30",,,5584382
+,"Nebraska","31","American Indian or Alaska Native","1002-5",166529
+,"Nebraska","31","Asian","A",286337
+,"Nebraska","31","Black or African American","2054-5",540433
+,"Nebraska","31","Native Hawaiian or Other Pacific Islander","NHOPI",13909
+,"Nebraska","31","White","2106-3",8634439
+,"Nebraska","31","More than one race","M",251852
+"Total","Nebraska","31",,,9893499
+,"Nevada","32","American Indian or Alaska Native","1002-5",272818
+,"Nevada","32","Asian","A",1524300
+,"Nevada","32","Black or African American","2054-5",1722421
+,"Nevada","32","Native Hawaiian or Other Pacific Islander","NHOPI",140022
+,"Nevada","32","White","2106-3",11459374
+,"Nevada","32","More than one race","M",804119
+"Total","Nevada","32",,,15923054
+,"New Hampshire","33","American Indian or Alaska Native","1002-5",22270
+,"New Hampshire","33","Asian","A",217041
+,"New Hampshire","33","Black or African American","2054-5",139975
+,"New Hampshire","33","Native Hawaiian or Other Pacific Islander","NHOPI",4093
+,"New Hampshire","33","White","2106-3",6460163
+,"New Hampshire","33","More than one race","M",130800
+"Total","New Hampshire","33",,,6974342
+,"New Jersey","34","American Indian or Alaska Native","1002-5",366306
+,"New Jersey","34","Asian","A",4961507
+,"New Jersey","34","Black or African American","2054-5",7208561
+,"New Jersey","34","Native Hawaiian or Other Pacific Islander","NHOPI",65341
+,"New Jersey","34","White","2106-3",32970375
+,"New Jersey","34","More than one race","M",1146965
+"Total","New Jersey","34",,,46719055
+,"New Mexico","35","American Indian or Alaska Native","1002-5",1204393
+,"New Mexico","35","Asian","A",213181
+,"New Mexico","35","Black or African American","2054-5",297044
+,"New Mexico","35","Native Hawaiian or Other Pacific Islander","NHOPI",17821
+,"New Mexico","35","White","2106-3",8573369
+,"New Mexico","35","More than one race","M",295419
+"Total","New Mexico","35",,,10601227
+,"New York","36","American Indian or Alaska Native","1002-5",1068991
+,"New York","36","Asian","A",9588425
+,"New York","36","Black or African American","2054-5",17634742
+,"New York","36","Native Hawaiian or Other Pacific Islander","NHOPI",146155
+,"New York","36","White","2106-3",68021679
+,"New York","36","More than one race","M",2801817
+"Total","New York","36",,,99261809
+,"North Carolina","37","American Indian or Alaska Native","1002-5",854762
+,"North Carolina","37","Asian","A",1945687
+,"North Carolina","37","Black or African American","2054-5",11836793
+,"North Carolina","37","Native Hawaiian or Other Pacific Islander","NHOPI",81100
+,"North Carolina","37","White","2106-3",37534411
+,"North Carolina","37","More than one race","M",1399225
+"Total","North Carolina","37",,,53651978
+,"North Dakota","38","American Indian or Alaska Native","1002-5",206757
+,"North Dakota","38","Asian","A",72381
+,"North Dakota","38","Black or African American","2054-5",145473
+,"North Dakota","38","Native Hawaiian or Other Pacific Islander","NHOPI",5854
+,"North Dakota","38","White","2106-3",3394654
+,"North Dakota","38","More than one race","M",99082
+"Total","North Dakota","38",,,3924201
+,"Ohio","39","American Indian or Alaska Native","1002-5",189268
+,"Ohio","39","Asian","A",1655583
+,"Ohio","39","Black or African American","2054-5",7894145
+,"Ohio","39","Native Hawaiian or Other Pacific Islander","NHOPI",42731
+,"Ohio","39","White","2106-3",47693343
+,"Ohio","39","More than one race","M",1576391
+"Total","Ohio","39",,,59051461
+,"Oklahoma","40","American Indian or Alaska Native","1002-5",1913871
+,"Oklahoma","40","Asian","A",522877
+,"Oklahoma","40","Black or African American","2054-5",1591253
+,"Oklahoma","40","Native Hawaiian or Other Pacific Islander","NHOPI",50616
+,"Oklahoma","40","White","2106-3",14722779
+,"Oklahoma","40","More than one race","M",1341761
+"Total","Oklahoma","40",,,20143157
+,"Oregon","41","American Indian or Alaska Native","1002-5",413951
+,"Oregon","41","Asian","A",1097200
+,"Oregon","41","Black or African American","2054-5",502441
+,"Oregon","41","Native Hawaiian or Other Pacific Islander","NHOPI",104742
+,"Oregon","41","White","2106-3",18238579
+,"Oregon","41","More than one race","M",914542
+"Total","Oregon","41",,,21271455
+,"Pennsylvania","42","American Indian or Alaska Native","1002-5",302879
+,"Pennsylvania","42","Asian","A",2703811
+,"Pennsylvania","42","Black or African American","2054-5",7964626
+,"Pennsylvania","42","Native Hawaiian or Other Pacific Islander","NHOPI",61648
+,"Pennsylvania","42","White","2106-3",52515597
+,"Pennsylvania","42","More than one race","M",1544615
+"Total","Pennsylvania","42",,,65093176
+,"Rhode Island","44","American Indian or Alaska Native","1002-5",69259
+,"Rhode Island","44","Asian","A",210710
+,"Rhode Island","44","Black or African American","2054-5",501794
+,"Rhode Island","44","Native Hawaiian or Other Pacific Islander","NHOPI",11876
+,"Rhode Island","44","White","2106-3",4546193
+,"Rhode Island","44","More than one race","M",169179
+"Total","Rhode Island","44",,,5509011
+,"South Carolina","45","American Indian or Alaska Native","1002-5",161283
+,"South Carolina","45","Asian","A",533080
+,"South Carolina","45","Black or African American","2054-5",6939786
+,"South Carolina","45","Native Hawaiian or Other Pacific Islander","NHOPI",29477
+,"South Carolina","45","White","2106-3",18231895
+,"South Carolina","45","More than one race","M",585598
+"Total","South Carolina","45",,,26481119
+,"South Dakota","46","American Indian or Alaska Native","1002-5",388656
+,"South Dakota","46","Asian","A",78701
+,"South Dakota","46","Black or African American","2054-5",115381
+,"South Dakota","46","Native Hawaiian or Other Pacific Islander","NHOPI",5305
+,"South Dakota","46","White","2106-3",3827426
+,"South Dakota","46","More than one race","M",121668
+"Total","South Dakota","46",,,4537137
+,"Tennessee","47","American Indian or Alaska Native","1002-5",200096
+,"Tennessee","47","Asian","A",748434
+,"Tennessee","47","Black or African American","2054-5",5888717
+,"Tennessee","47","Native Hawaiian or Other Pacific Islander","NHOPI",41719
+,"Tennessee","47","White","2106-3",27660597
+,"Tennessee","47","More than one race","M",792352
+"Total","Tennessee","47",,,35331915
+,"Texas","48","American Indian or Alaska Native","1002-5",1635937
+,"Texas","48","Asian","A",8858033
+,"Texas","48","Black or African American","2054-5",20361147
+,"Texas","48","Native Hawaiian or Other Pacific Islander","NHOPI",243410
+,"Texas","48","White","2106-3",116433189
+,"Texas","48","More than one race","M",3410414
+"Total","Texas","48",,,150942130
+,"Utah","49","American Indian or Alaska Native","1002-5",267681
+,"Utah","49","Asian","A",487389
+,"Utah","49","Black or African American","2054-5",271570
+,"Utah","49","Native Hawaiian or Other Pacific Islander","NHOPI",196425
+,"Utah","49","White","2106-3",15243363
+,"Utah","49","More than one race","M",495233
+"Total","Utah","49",,,16961661
+,"Vermont","50","American Indian or Alaska Native","1002-5",12910
+,"Vermont","50","Asian","A",68897
+,"Vermont","50","Black or African American","2054-5",50560
+,"Vermont","50","Native Hawaiian or Other Pacific Islander","NHOPI",1275
+,"Vermont","50","White","2106-3",3032409
+,"Vermont","50","More than one race","M",69479
+"Total","Vermont","50",,,3235530
+,"Virginia","51","American Indian or Alaska Native","1002-5",264555
+,"Virginia","51","Asian","A",3191915
+,"Virginia","51","Black or African American","2054-5",8699428
+,"Virginia","51","Native Hawaiian or Other Pacific Islander","NHOPI",56995
+,"Virginia","51","White","2106-3",29816139
+,"Virginia","51","More than one race","M",1496787
+"Total","Virginia","51",,,43525819
+,"Washington","53","American Indian or Alaska Native","1002-5",781499
+,"Washington","53","Asian","A",4117888
+,"Washington","53","Black or African American","2054-5",1797989
+,"Washington","53","Native Hawaiian or Other Pacific Islander","NHOPI",333962
+,"Washington","53","White","2106-3",29986032
+,"Washington","53","More than one race","M",2063222
+"Total","Washington","53",,,39080592
+,"West Virginia","54","American Indian or Alaska Native","1002-5",24877
+,"West Virginia","54","Asian","A",81825
+,"West Virginia","54","Black or African American","2054-5",336604
+,"West Virginia","54","Native Hawaiian or Other Pacific Islander","NHOPI",2784
+,"West Virginia","54","White","2106-3",8261910
+,"West Virginia","54","More than one race","M",183860
+"Total","West Virginia","54",,,8891860
+,"Wisconsin","55","American Indian or Alaska Native","1002-5",362450
+,"Wisconsin","55","Asian","A",977227
+,"Wisconsin","55","Black or African American","2054-5",1969072
+,"Wisconsin","55","Native Hawaiian or Other Pacific Islander","NHOPI",18175
+,"Wisconsin","55","White","2106-3",25584156
+,"Wisconsin","55","More than one race","M",663258
+"Total","Wisconsin","55",,,29574338
+,"Wyoming","56","American Indian or Alaska Native","1002-5",81535
+,"Wyoming","56","Asian","A",33833
+,"Wyoming","56","Black or African American","2054-5",35477
+,"Wyoming","56","Native Hawaiian or Other Pacific Islander","NHOPI",3110
+,"Wyoming","56","White","2106-3",2687823
+,"Wyoming","56","More than one race","M",70202
+"Total","Wyoming","56",,,2911980
+"Total",,,,,1674612020
+"---"
+"Dataset: Single-Race Population Estimates 2020-2024 by State and Single-Year Age"
+"Query Parameters:"
+"Title: Race by State"
+"Group By: States; Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/single-race.html for more information."
+"---"
+"Query Date: Nov 20, 2026 12:09:08 PM"
+"---"
+"Suggested Citation: Single-race Population Estimates, United States, 2020-2024. July 1st resident population by state, age, sex,"
+"single-race, and Hispanic origin, on CDC WONDER Online Database. The 2020-2024 postcensal series of estimates of the July 1"
+"resident population are based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, Released by the Census Bureau on June 26, 2025. Accessed at"
+"http://wonder.cdc.gov/single-race-single-year-v2024.html on Nov 20, 2026 12:09:08 PM"
+"---"
+Messages:
+"1. Rows with zero Population are hidden. Use Quick Options above to show zero rows."
+"---"
+Footnotes:
+"1. Estimates for 2020-2024 are single-race Vintage 2024 postcensal estimates of the July 1 resident population, based on the"
+"modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, and released by"
+"the Census Bureau on June 26, 2025."
+"---"
+Caveats:
+"1. The query results include the sum of the population for more than one year. To see the population for a single year, either"
+"sort by year, or select only one year."
